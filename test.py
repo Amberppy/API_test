@@ -44,5 +44,4 @@ def reg():
     return jsonify(random.choice(res))
 
 if __name__=='__main__':
-    pass
     print('Test')
